@@ -1,0 +1,22 @@
+{
+  "name": "Middle East Kaleidoscope",
+  "short_name": "中东万花筒",
+  "description": "中东地区新闻聚合 - Middle East News Aggregator",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f9fafb",
+  "theme_color": "#DB161B",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "https://placehold.co/192x192/DB161B/ffffff.png?text=MK",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://placehold.co/512x512/DB161B/ffffff.png?text=MK",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
